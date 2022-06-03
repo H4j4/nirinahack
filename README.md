@@ -22,7 +22,7 @@ $ pip2 install mechanize
 
 $ pkg install git 
 
-$ git clone https://github.com/HajaNirina22/nirinahack.git
+$ git clone https://github.com/H4j4/nirinahack.git
 
 $ cd nirinahack
 

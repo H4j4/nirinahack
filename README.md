@@ -26,4 +26,4 @@ $ git clone https://github.com/HajaNirina22/nirinahack.git
 
 $ cd nirinahack
 
-$python2 Nirina.py
+$ python2 Nirina.py

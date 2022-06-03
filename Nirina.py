@@ -196,7 +196,7 @@ def log_sel():
 
     elif select == '5':
 
-         os.system('xdg-open https://github.com/HajaNirina22') 
+         os.system('xdg-open https://github.com/H4j4') 
 
     elif select == '6':
 
